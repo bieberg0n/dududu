@@ -4,6 +4,8 @@
 
 [从零开始学编程](从零开始学编程.md) long  
 
+[编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253)
+
 ## 各类语言细分
 ### python
 [Python编程：从入门到实践](https://book.douban.com/subject/26829016/)  

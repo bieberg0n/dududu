@@ -49,6 +49,9 @@
 #### React Router v4
 [React Router v4 入坑指南](https://www.jianshu.com/p/6a45e2dfc9d9)
 
+#### React Intl
+[React-intl 实现多语言](https://www.cnblogs.com/qiaojie/p/6411199.html)
+
 ### Ruby on Rails
 [只要有心，人人都可以做卡米狗](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
 

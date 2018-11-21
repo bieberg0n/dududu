@@ -41,6 +41,12 @@
 
 [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
 
+### PHP
+
+[7天学会PHP](http://phpbook.phpxy.com/33183)
+
+[一行命令快速启动php测试server](http://php.net/manual/zh/features.commandline.webserver.php)
+
 ## 各类框架与库
 
 ### React

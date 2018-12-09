@@ -1,6 +1,6 @@
 # 目录
 ## 编程入门导论
-[解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1) 王垠  
+[解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science) 王垠  
 
 [从零开始学编程](从零开始学编程.md) long  
 

@@ -1,14 +1,16 @@
 # 目录
 ## 编程入门导论
-[解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science) 王垠  
+[解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science) via 王垠  
 
-[从零开始学编程](从零开始学编程.md) long  
+[萧井陌的0基础编程导论入门课](https://zhuanlan.zhihu.com/p/20889265)
+
+[从零开始学编程](从零开始学编程.md) via long  
 
 [编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253)
 
 ## 各类语言细分
 ### python
-[2 分钟学编程系列](https://www.bilibili.com/video/av36499356)
+[萧井陌的2分钟学编程系列](https://www.bilibili.com/video/av36499356)
 
 [萧井陌的 Python 和 JS 编程入门课](https://zhuanlan.zhihu.com/p/67444157)
 

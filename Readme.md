@@ -8,6 +8,10 @@
 
 ## 各类语言细分
 ### python
+[2 分钟学编程系列](https://www.bilibili.com/video/av36499356)
+
+[萧井陌的 Python 和 JS 编程入门课](https://zhuanlan.zhihu.com/p/67444157)
+
 [Python编程：从入门到实践](https://book.douban.com/subject/26829016/)  
 
 [廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)

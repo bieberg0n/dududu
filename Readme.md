@@ -71,3 +71,8 @@
 
 ### Django
 [Django 30 Days 教程](https://ithelp.ithome.com.tw/articles/10199515)
+
+### Vue.JS
+[Vue.js——60分钟快速入门](https://www.cnblogs.com/keepfool/p/5619070.html)
+
+[打開Vue.js世界的大門系列](https://ithelp.ithome.com.tw/articles/10198843)

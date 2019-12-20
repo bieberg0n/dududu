@@ -68,3 +68,6 @@
 [只要有心，人人都可以做卡米狗](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
 
 [麥克阿忠的 Ruby on Rails](https://www.openfoundry.org/index.php?option=com_search&Itemid=58&searchphrase=exact_meta&ordering=newest&searchword=Rails)
+
+### Django
+[Django 30 Days 教程](https://ithelp.ithome.com.tw/articles/10199515)

@@ -2,7 +2,7 @@
 ## 编程入门导论
 [解谜计算机科学](http://www.yinwang.org/blog-cn/2018/04/13/computer-science) via 王垠  
 
-[萧井陌的0基础编程导论入门课](https://zhuanlan.zhihu.com/p/20889265)
+[萧井陌的免费编程入门课](https://www.bilibili.com/video/BV19J411V7wm)
 
 [从零开始学编程](从零开始学编程.md) via long  
 
@@ -37,9 +37,9 @@
 [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)(速查用)
 
 ### Javascript
-[高级软件工程开发技术](https://space.bilibili.com/39066904/#/channel/detail?cid=21254) 
-
 [廖雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+
+[高级软件工程开发技术](https://space.bilibili.com/39066904/#/channel/detail?cid=21254) 
 
 ### Golang
 
@@ -63,6 +63,9 @@
 
 #### React Intl
 [React-intl 实现多语言](https://www.cnblogs.com/qiaojie/p/6411199.html)
+
+### PostCss
+[PostCss移动端适配设置](https://www.jianshu.com/p/c200f392e5ca)
 
 ### Ruby on Rails
 [只要有心，人人都可以做卡米狗](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
